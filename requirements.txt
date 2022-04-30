@@ -1,0 +1,11 @@
+matplotlib
+numpy
+pandas
+sklearn==0.24.2
+six
+torch==1.10.0
+torchvision==0.11.1
+monai==0.8.1
+pillow
+scipy
+h5py
