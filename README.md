@@ -24,5 +24,5 @@ We provide several sample data. See [here](./sample_data).
 ```
 python Med3D_train.py
 ```
-- If `-pretrained` is set to true, you need to input `-pretrained_path` of [Med3D](https://github.com/Tencent/MedicalNet).
+- If `-pretrained` is set to True, you need to also set `-pretrained_path` of [Med3D](https://github.com/Tencent/MedicalNet).
 
