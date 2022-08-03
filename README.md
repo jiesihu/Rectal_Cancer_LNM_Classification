@@ -17,7 +17,9 @@ We design an efficient classification strategy for rectal cancer LNM classificat
 pip install -r requirements.txt
 ```
 ### Dataset
-We provide several sample data. See [here](./sample_data).
+After preprocessing, the tumor is cropped and saved slice by slice as .png images.
+We provide several preprocessed sample data. See [here](./sample_data).
+The preprocessing code that transfers Dicom files to PNG images will be uploaded later.
 
 ### Training and Evaluation
 
